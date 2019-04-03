@@ -49,4 +49,4 @@ The lab session is tailored toward giving a hands-on experience on the platform.
 
 
 ### Contributor 
-Alan Waver
+* Alan Waver
