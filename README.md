@@ -1,4 +1,4 @@
-# Databricks fundamentals 101 Training Day
+# Databricks Fundamentals 101 Training Day
 
 # Agenda: 
 
